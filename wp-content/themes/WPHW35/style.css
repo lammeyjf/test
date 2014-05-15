@@ -8,14 +8,14 @@ block-type-content div.entry-content {
 }
 
 .TopNav {
-background: #ddeaf3;
-background: -moz-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, #ddeaf3), color-stop(100%, #b5d3f8));
-background: -webkit-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
-background: -o-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
-background: -ms-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
-background: linear-gradient(to bottom, #ddeaf3 0%, #b5d3f8 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddeaf3', endColorstr='#b5d3f8', GradientType=0 );
+     background: #ddeaf3;
+     background: -moz-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
+     background: -webkit-gradient(left top, left bottom, color-stop(0%, #ddeaf3), color-stop(100%, #b5d3f8));
+     background: -webkit-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
+     background: -o-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
+     background: -ms-linear-gradient(top, #ddeaf3 0%, #b5d3f8 100%);
+     background: linear-gradient(to bottom, #ddeaf3 0%, #b5d3f8 100%);
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddeaf3', endColorstr='#b5d3f8', GradientType=0 );
     max-height:30px!important;
     min-height:30px!important;
     height:30px!important;
@@ -23,11 +23,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddeaf3', end
 
 .TopNavBlock {
      max-height:20px!important;
-    min-height:20px!important;
-    height:20px!important;
-  line-height:20px!important;
-border-radius: 0px 0px 10px 10px !imporatant;
-	background-color: #2580e9 !important;
+     min-height:20px!important;
+     height:20px!important;
+     line-height:20px!important;
+     border-radius:0px 0px 10px 10px!imporatant;
+     background-color: #2580e9 !important;
 }
 
 .MainNav {
